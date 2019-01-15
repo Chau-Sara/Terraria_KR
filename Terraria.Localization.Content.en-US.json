@@ -2,7 +2,7 @@
 	"Error": {
 		"Error": "오류",
 		"LaunchFromSteam": "스팀으로 실행시켜 주시기 바랍니다.",
-		"ServerCrash": "서버 중단됨: {0}\n{1}\n\ncrashlog.txt를 support@terraria.org로 보내주세요.",
+		"ServerCrash": "서버 중단됨: {0}\n{1}\n\ncrashlog.txt를 admin@stellaria.st로 보내주세요.",
 		"LoadFailed": "로드 실패!",
 		"LoadFailedNoBackup": "로드 실패! 백업을 찾을 수 없음.",
 		"InvalidLobbyFlag": "-lobby 옵션이 \"{0}\" 와 \"{1}\" 없이 사용되었습니다. 이것은 무시됩니다.",
@@ -21,8 +21,8 @@
 		"DOWN": "DOWN"
 	},
 	"Language": {
-		"English": "영어(한국어 패치됨)",
-		"Spanish": "Español (스페인어)",
+		"English": "ChauSara의 번역(진행: 41%)",
+		"Spanish": "TPKT의 번역",
 		"French": "Français (프랑스어)",
 		"Italian": "Italiano (이탈리아어)",
 		"Russian": "Русский (러시아어)",
