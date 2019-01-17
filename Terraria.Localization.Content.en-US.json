@@ -12,7 +12,7 @@
 		"UnableToLoadWorld": "로드를 불러올 수 없습니다:",
 		"BadHeaderBufferOverflow": "읽기 버퍼에 잘못된 지정 헤더가 있습니다.",
 		"ExceptionNormal": "   일반적인 예외: {0}",
-		"TriedToRunServerTwice": "2개의 서버를 동일한 PC에서 구동하려고 했습니다. (포트가 이미 사용됨)",
+		"TriedToRunServerTwice": "동일한 포트를 이미 사용중입니다. 포트 연결을 확인하십시오. ( netstat -aonq를 이용해 포트를 확인하십시오. )",
 		"DataSentAfterConnectionLost": "이미 연결이 종료된 클라이언트에 데이터를 전송하려고 했습니다.",
 		"NetMessageError": "오류 발생 메세지 {0}"
 	},
@@ -419,7 +419,7 @@
 	"Misc": {
 		"ForceWaterSettling": "Forcing water to settle.",
 		"WaterSettled": "Water has been settled.",
-		"ResolutionChanged": "Resolution changed to: {0}x{1}.",
+		"ResolutionChanged": "해상도를 {0}x{1}로 변경했습니다.",
 		"ShortDays": "일",
 		"ShortHours": "시",
 		"ShortMinutes": "분",
